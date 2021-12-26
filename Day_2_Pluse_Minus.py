@@ -3,6 +3,7 @@
 Created on Sun Dec 26 11:11:15 2021
 
 @author: Manish Kumar Goswami
+
 """
 
 num = int(input())
